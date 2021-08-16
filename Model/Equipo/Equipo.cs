@@ -12,7 +12,7 @@ namespace Model.Equipo
 
         public Equipo()
         {
-            this.nombreEquipo = "pruebaa";
+            this.nombreEquipo = "Grupo B";
         }
 
         public Equipo(string nombreEquipo, int numeroJugadores, string nombreDirectoTecnico, string presidenteEquipo)
